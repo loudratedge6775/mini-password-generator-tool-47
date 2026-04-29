@@ -1,2 +1,9 @@
-# mini-password-generator-tool-47
-A simple password generator project
+# Password Generator
+
+A simple command-line password generator.
+\n
+## Usage
+
+```
+python main.py
+```
